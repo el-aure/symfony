@@ -1,0 +1,7 @@
+.bouton {
+	border:0px; 
+	background-image:url(../img/s_activ.gif);
+	background-repeat:no-repeat; 
+	width:99px; 
+	height:35px; 
+	cursor:pointer;}
